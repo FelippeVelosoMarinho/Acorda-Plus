@@ -3,7 +3,7 @@
 ### Circuito
 ![image](https://github.com/user-attachments/assets/2500ec8b-fb82-4eb0-847b-49a04c1c8c18)
 
-### Código do Circuito
+### Código do Circuito de Teste
 ```
 
 #include <WiFi.h>
